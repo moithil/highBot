@@ -1,3 +1,5 @@
+//NOTE : MAY NOT WORK IF YOU SEND A "STRING" INSTEAD OF A 'C' (single character) from Serial communication!
+
 char line1;                               //char variable to store message serially received.
 int flag;                                 //flag to hold current state of operation, like forward movement.
 
